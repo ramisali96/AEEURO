@@ -1,2 +1,2 @@
-# ramis_repo
-Repository containing project scripts data.
+# Automatic Exam Evaluation Using Real-Time OCR
+# SEECS, NUST 2020
